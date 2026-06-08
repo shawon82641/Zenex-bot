@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.29.1
+cloudscraper==1.2.71
+requests==2.32.4
+urllib3==2.5.0
